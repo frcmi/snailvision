@@ -1,0 +1,12 @@
+{
+	"name": "snailvision",
+	"authors": [
+		"Carver Harrison"
+	],
+	"dependencies": {
+		"dcv": "~master"
+	},
+	"description": "Best vision tracking",
+	"copyright": "Copyright © 2019, Carver Harrison",
+	"license": "proprietary"
+}
